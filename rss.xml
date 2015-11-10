@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Canyon Brewing Project]]></title>
+        <description><![CDATA[Canyon Brewing Project]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 Nov 2015 18:18:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Canyon Brewing Project posted this photo on 2014-06-23&period; 2 likes&period; 0 comments&period; 0 shares&period;" src="https://scontent.xx.fbcdn.net/hphotos-xpa1/t31.0-0/p180x540/10498333_1463348573908334_3158966716373272201_o.jpg">]]></description>
+            <link>https://www.facebook.com/canyonbrewing/photos/a.1463348647241660.1073741827.1463341047242420/1463348573908334/?type=3</link>
+            <guid isPermaLink="false">255f2c30-8ef9-4715-a188-b7bababb4e39</guid>
+            <pubDate>Tue, 10 Nov 2015 18:18:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
